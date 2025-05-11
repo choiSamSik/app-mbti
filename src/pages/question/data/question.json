@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "question": "처음 보는 사람이랑도 금방 친해지는 편이야?",
+    "image": "/images/q1.png",
+    "type": "EI",
+    "answers": [
+      {
+        "text": "응 금방 친해짐",
+        "value": "E"
+      },
+      {
+        "text": "아니 혼자 있는 게 편함",
+        "value": "I"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "계획 세우는 거 좋아해? 아니면 되는 대로 살아?",
+    "image": "/images/q2.png",
+    "type": "JP",
+    "answers": [
+      {
+        "text": "계획 세워야 마음이 편함",
+        "value": "J"
+      },
+      {
+        "text": "그때그때 느낌대로 가는 거지",
+        "value": "P"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "약속 전에 미리 준비 다 해놓는 편이야?",
+    "image": "/images/q3.png",
+    "type": "JP",
+    "answers": [
+      {
+        "text": "응 미리 준비해야 안 불안해",
+        "value": "J"
+      },
+      {
+        "text": "그때 가서 생각하지 뭐~",
+        "value": "P"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "카페 갔는데 메뉴판 고민 오래 함?",
+    "image": "/images/q4.png",
+    "type": "SN",
+    "answers": [
+      {
+        "text": "대충 보이고 끌리는 거 고름",
+        "value": "S"
+      },
+      {
+        "text": "성분, 후기도 다 봐야 결정됨",
+        "value": "N"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "친구가 고민 상담할 때 어떻게 들어줘?",
+    "image": "/images/q5.png",
+    "type": "TF",
+    "answers": [
+      {
+        "text": "해결법 위주로 말해줌",
+        "value": "T"
+      },
+      {
+        "text": "그냥 공감 먼저 해줌",
+        "value": "F"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "혼자 있는 시간 좋아해?",
+    "image": "/images/q6.png",
+    "type": "EI",
+    "answers": [
+      {
+        "text": "완전 좋아. 에너지 충전됨",
+        "value": "I"
+      },
+      {
+        "text": "혼자 있으면 심심해서 싫어",
+        "value": "E"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "즉흥 여행 VS 계획 여행?",
+    "image": "/images/q7.png",
+    "type": "JP",
+    "answers": [
+      {
+        "text": "무조건 계획표 짜야 됨",
+        "value": "J"
+      },
+      {
+        "text": "일단 떠나고 생각하자",
+        "value": "P"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "문제 생기면 어떻게 반응해?",
+    "image": "/images/q8.png",
+    "type": "TF",
+    "answers": [
+      {
+        "text": "원인 분석부터 함",
+        "value": "T"
+      },
+      {
+        "text": "일단 감정 케어가 우선",
+        "value": "F"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "파티에서 넌 어떤 스타일?",
+    "image": "/images/q9.png",
+    "type": "EI",
+    "answers": [
+      {
+        "text": "중심에 있음. 텐션 담당",
+        "value": "E"
+      },
+      {
+        "text": "한쪽에 앉아서 조용히 먹고 감",
+        "value": "I"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "뭔가 결정할 때 직감 믿는 편이야?",
+    "image": "/images/q10.png",
+    "type": "SN",
+    "answers": [
+      {
+        "text": "느낌이 중요하지",
+        "value": "N"
+      },
+      {
+        "text": "데이터 보고 판단함",
+        "value": "S"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "친구들이랑 약속 시간 잡을 때 넌 어떤 편?",
+    "image": "/images/q11.png",
+    "type": "JP",
+    "answers": [
+      {
+        "text": "딱 정해진 시간 있어야 안 불안",
+        "value": "J"
+      },
+      {
+        "text": "그날 되면 연락해서 정하지 뭐~",
+        "value": "P"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "누가 실수했을 때 어떻게 말해?",
+    "image": "/images/q12.png",
+    "type": "TF",
+    "answers": [
+      {
+        "text": "팩트로 조곤조곤 알려줌",
+        "value": "T"
+      },
+      {
+        "text": "기분 안 상하게 돌려 말함",
+        "value": "F"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "단톡방에 갑자기 전화오면?",
+    "image": "/images/q13.png",
+    "type": "EI",
+    "answers": [
+      {
+        "text": "오 뭐야 재밌겠다 바로 받음",
+        "value": "E"
+      },
+      {
+        "text": "헉 부담... 그냥 안 받음",
+        "value": "I"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "여행 중 갑자기 계획 틀어지면?",
+    "image": "/images/q14.png",
+    "type": "JP",
+    "answers": [
+      {
+        "text": "계획 틀어지면 스트레스 받음",
+        "value": "J"
+      },
+      {
+        "text": "오히려 재밌는 경험 생긴 거지~",
+        "value": "P"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "좋아하는 사람 생기면?",
+    "image": "/images/q15.png",
+    "type": "EI",
+    "answers": [
+      {
+        "text": "먼저 다가가서 말 검",
+        "value": "E"
+      },
+      {
+        "text": "혼자 속으로만 좋아함",
+        "value": "I"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "영화 고를 때 기준은?",
+    "image": "/images/q16.png",
+    "type": "SN",
+    "answers": [
+      {
+        "text": "감으로 끌리는 거 고름",
+        "value": "N"
+      },
+      {
+        "text": "줄거리, 배우 다 확인함",
+        "value": "S"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "친구 생일 선물 고를 때?",
+    "image": "/images/q17.png",
+    "type": "TF",
+    "answers": [
+      {
+        "text": "실용성 위주로 고름",
+        "value": "T"
+      },
+      {
+        "text": "감성 담아서 고름",
+        "value": "F"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "단체 과제에서 맡는 역할은?",
+    "image": "/images/q18.png",
+    "type": "EI",
+    "answers": [
+      {
+        "text": "앞에서 말하고 조율하는 편",
+        "value": "E"
+      },
+      {
+        "text": "자료 조사 조용히 하는 편",
+        "value": "I"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "가장 힘들었던 시험 끝난 날 뭐 함?",
+    "image": "/images/q19.png",
+    "type": "SN",
+    "answers": [
+      {
+        "text": "그날 할 일 정리함",
+        "value": "S"
+      },
+      {
+        "text": "해방이다!! 놀 계획부터 세움",
+        "value": "N"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "길 가다 모르는 사람이 길 물어보면?",
+    "image": "/images/q20.png",
+    "type": "EI",
+    "answers": [
+      {
+        "text": "반갑게 설명해줌",
+        "value": "E"
+      },
+      {
+        "text": "긴장하고 말 더듬음",
+        "value": "I"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "약속 시간 늦었을 때 어떻게 해?",
+    "image": "/images/q21.png",
+    "type": "TF",
+    "answers": [
+      {
+        "text": "미안하다고 먼저 말하고 상대방에게 사과함",
+        "value": "F"
+      },
+      {
+        "text": "왜 늦었는지 설득부터 하는 편임",
+        "value": "T"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "처음 가는 곳은 어때?",
+    "image": "/images/q22.png",
+    "type": "SN",
+    "answers": [
+      {
+        "text": "지도, 리뷰 다 보고 감",
+        "value": "S"
+      },
+      {
+        "text": "대충 감으로 찾아가면 됨",
+        "value": "N"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "할 일 리스트 자주 써?",
+    "image": "/images/q23.png",
+    "type": "JP",
+    "answers": [
+      {
+        "text": "매일 씀. 안 쓰면 불안해",
+        "value": "J"
+      },
+      {
+        "text": "필요할 때만 대충 적음",
+        "value": "P"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "친구가 힘들어할 때 뭐라고 해?",
+    "image": "/images/q24.png",
+    "type": "TF",
+    "answers": [
+      {
+        "text": "그 상황이면 누구나 힘들지… 위로부터 해",
+        "value": "F"
+      },
+      {
+        "text": "어떻게 해결할지부터 같이 고민함",
+        "value": "T"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "갑자기 약속 취소됐을 때 어때?",
+    "image": "/images/q25.png",
+    "type": "EI",
+    "answers": [
+      {
+        "text": "아쉽다ㅠㅠ 뭔가 허전함",
+        "value": "E"
+      },
+      {
+        "text": "오히려 잘됐다 혼자 쉰다",
+        "value": "I"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "요리할 때 어떤 스타일?",
+    "image": "/images/q26.png",
+    "type": "SN",
+    "answers": [
+      {
+        "text": "레시피 그대로 안 하면 불안함",
+        "value": "S"
+      },
+      {
+        "text": "대충 감으로 조합함",
+        "value": "N"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "사람 많은 데 가는 거 어때?",
+    "image": "/images/q27.png",
+    "type": "EI",
+    "answers": [
+      {
+        "text": "재밌지. 북적북적한 분위기 좋음",
+        "value": "E"
+      },
+      {
+        "text": "복잡해서 싫음. 조용한 데가 좋음",
+        "value": "I"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "누가 나한테 잘못했을 때 어떻게 해?",
+    "image": "/images/q28.png",
+    "type": "TF",
+    "answers": [
+      {
+        "text": "말은 안 하지만 속상함",
+        "value": "F"
+      },
+      {
+        "text": "바로 그 자리에서 뭐가 문제였는지 말함",
+        "value": "T"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "심심할 때 뭘 자주 해?",
+    "image": "/images/q29.png",
+    "type": "EI",
+    "answers": [
+      {
+        "text": "친구한테 연락하거나 밖에 나감",
+        "value": "E"
+      },
+      {
+        "text": "혼자 영상 보거나 게임함",
+        "value": "I"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "생각 많을 때 어떻게 정리해?",
+    "image": "/images/q30.png",
+    "type": "SN",
+    "answers": [
+      {
+        "text": "메모하거나 종이에 정리함",
+        "value": "S"
+      },
+      {
+        "text": "마음 가는 대로 그냥 흐름 따라 감",
+        "value": "N"
+      }
+    ]
+  }
+]
